@@ -1,0 +1,2 @@
+torch 1.6.0 to be installed from 
+https://pytorch.org/get-started/previous-versions/
